@@ -1,0 +1,3 @@
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOmYdY+QGJUCmXODBxfI2V6cuf/EVsz6cTz3q6WTS0QX martinezjuarez922@
+
+ssh-keygen -t ed25519 -C martinezjuarez922@gmail.com
